@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float _moveSpeed = 5f;
+    [SerializeField] private float _slowSpeed = 2f;
 
     private Vector2 _movement;
 
@@ -24,7 +25,9 @@ public class PlayerMovement : MonoBehaviour
     private void Update() {
         _movement.Set(InputManager.Movement.x, InputManager.Movement.y);
         
-        _rb.velocity = _movement * _moveSpeed;
+        float currentSpeed = InputManager.SlowMovement ? _slowSpeed : _moveSpeed;
+
+        _rb.velocity = _movement * currentSpeed;
 
         _animator.SetFloat(_HORIZONTAL, _movement.x);
         _animator.SetFloat(_VERTICAL, _movement.y);
