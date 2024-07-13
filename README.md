@@ -1,0 +1,1 @@
+All'interno del repository c'è il game design document (Evil_Hospice by MGP.pdf), la cartella BuildLinux con all'interno l'eseguibile per linux, la cartella BuildWindows con l'eseguibile per Windows e Retirement_Evil con tutti i file del progetto.
