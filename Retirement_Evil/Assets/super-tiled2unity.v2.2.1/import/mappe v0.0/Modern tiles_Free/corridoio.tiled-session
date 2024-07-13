@@ -1,0 +1,229 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "mappa 0.0/corridoio",
+        "mappa 0.0/stanza letto Bob",
+        "overmap_prova",
+        "mappa 0.0",
+        "."
+    ],
+    "fileStates": {
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/Interiors_free_48x48 sxgirato sxsx.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/Interiors_free_48x48.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/Room_Builder_free_48x48 girato.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/Room_Builder_free_48x48.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.0987
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/corridoio.tmx": {
+            "scale": 0.4507,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199.68937208786335,
+                "y": 671.1781672953184
+            }
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/Interiors_free_48x48 sxgirato sxsx.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/Interiors_free_48x48.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/Room_Builder_free_48x48 girato.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/Room_Builder_free_48x48.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/corridoio.tmx": {
+            "scale": 0.2418,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 403.2258064516129,
+                "y": 1147.6426799007445
+            }
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/overmap_prova/untitled.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199.5,
+                "y": 200.5
+            }
+        },
+        "/Users/pietroconca/Documents/assets svd/tiles/corridoio.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.282,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 242.90780141843976,
+                "y": 719.8581560283689
+            }
+        },
+        "Interiors_free_48x48 sxgirato sxsx.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.1131
+        },
+        "Interiors_free_48x48 sxgirato sxsxf.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Interiors_free_48x48 sxgirato.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Interiors_free_48x48 sxgiratoriflesso.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Interiors_free_48x48.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.2433
+        },
+        "Room_Builder_free_48x48 girato.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5813
+        },
+        "Room_Builder_free_48x48.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.463,
+            "scaleInEditor": 0.539
+        },
+        "Sala-A.tmx": {
+            "scale": 0.6328,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 239.41213653603035,
+                "y": 6.321112515802781
+            }
+        },
+        "corridoio.tmx": {
+            "scale": 0.3087,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 362.81179138321994,
+                "y": 516.6828636216392
+            }
+        },
+        "mappa 0.0/Interiors_free_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/Room_Builder_free_48x48 girato.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/Room_Builder_free_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgirato sxsx.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.4301,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgirato.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.6077,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgiratoriflesso.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mappa 0.0/corridoio/Interiors_free_48x48.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.62
+        },
+        "mappa 0.0/corridoio/Room_Builder_free_48x48 girato.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.2465
+        },
+        "mappa 0.0/corridoio/Room_Builder_free_48x48.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.3136
+        },
+        "mappa 0.0/corridoio/corridoio.tmx": {
+            "scale": 0.3184,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 240.26381909547734,
+                "y": 720.7914572864322
+            }
+        },
+        "mappa 0.0/stanza letto Bob/stanza letto Bob.tmx": {
+            "scale": 0.0997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 727.1815446339016,
+                "y": -802.4072216649952
+            }
+        },
+        "overmap_prova/untitled.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.9399,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 199.4893073731248,
+                "y": 200.5532503457815
+            }
+        },
+        "untitled.tmx": {
+            "scale": 0.6927083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 238.91729323308272,
+                "y": 241.08270676691728
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/pietroconca/Desktop/Modern tiles_Free",
+    "last.externalTilesetPath": "/Users/pietroconca/Desktop/Modern tiles_Free/Interiors_free/48x48",
+    "last.imagePath": "/Users/pietroconca/Desktop/Modern tiles_Free/Interiors_free/48x48",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+    ],
+    "project": "corridoio.tiled-project",
+    "recentFiles": [
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 0.0/corridoio/corridoio.tmx",
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/overmap_prova/untitled.tmx",
+        "overmap_prova/untitled.tmx",
+        "mappa 0.0/corridoio/corridoio.tmx",
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgirato sxsx.tsx",
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgirato.tsx",
+        "mappa 0.0/corridoio/Interiors_free_48x48 sxgiratoriflesso.tsx",
+        "mappa 0.0/stanza letto Bob/stanza letto Bob.tmx",
+        "/Users/pietroconca/Documents/assets svd/tiles/corridoio.tmx",
+        "untitled.tmx",
+        "Sala-A.tmx",
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/corridoio/corridoio.tmx"
+    ],
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}

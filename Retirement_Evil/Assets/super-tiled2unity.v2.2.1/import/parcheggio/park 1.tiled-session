@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.1/import/parcheggio/untitled.tmx": {
+            "scale": 0.3223,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 370.7725721377599,
+                "y": 156.6863170958734
+            }
+        },
+        "parcheggio.tsx": {
+            "scaleInEditor": 0.43
+        },
+        "pargheggiogiusto.tmx": {
+            "scale": 0.42,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 413.0952380952381,
+                "y": 315.4761904761905
+            }
+        },
+        "untitled.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.4182,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 324.0076518412243,
+                "y": 627.690100430416
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.1/import/parcheggio",
+    "last.imagePath": "/Users/pietroconca/Desktop/mappe EH/parcheggio",
+    "map.height": 24,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 24,
+    "openFiles": [
+    ],
+    "project": "park.tiled-project",
+    "recentFiles": [
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.1/import/parcheggio/untitled.tmx",
+        "pargheggiogiusto.tmx",
+        "parcheggio.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

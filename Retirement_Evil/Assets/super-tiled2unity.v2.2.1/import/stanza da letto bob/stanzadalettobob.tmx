@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="48" tileheight="48" infinite="0" nextlayerid="3" nextobjectid="17">
+ <tileset firstgid="1" source="stanza letto Bob.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="11" height="11">
+  <data encoding="csv">
+571,572,573,574,575,576,577,578,579,580,581,
+601,602,603,604,605,606,607,608,609,610,611,
+631,632,633,634,635,636,637,638,639,640,641,
+661,662,663,664,665,666,667,668,669,670,671,
+691,692,693,694,695,696,697,698,699,700,701,
+721,722,723,724,725,726,727,728,729,730,731,
+751,752,753,754,755,756,757,758,759,760,761,
+781,782,783,784,785,786,787,788,789,790,791,
+811,812,813,814,815,816,817,818,819,820,821,
+841,842,843,844,845,846,847,848,849,850,851,
+871,872,873,874,875,876,877,878,879,880,881
+</data>
+ </layer>
+ <objectgroup id="2" name="collision mask">
+  <object id="1" x="0" y="49" width="18" height="475"/>
+  <object id="2" x="20" y="511" width="459" height="16"/>
+  <object id="3" x="460" y="333" width="20" height="176"/>
+  <object id="4" x="460" y="49" width="20" height="190"/>
+  <object id="7" x="98" y="112" width="92" height="129"/>
+  <object id="9" x="193" y="99" width="47" height="45"/>
+  <object id="10" x="50" y="111" width="43" height="60"/>
+  <object id="12" x="51" y="323" width="43" height="90"/>
+  <object id="13" x="4" y="432" width="85" height="42"/>
+  <object id="14" x="395" y="122">
+   <polygon points="0,0 28,0 35,-47 27,-68 -5,-68 -10,-50"/>
+  </object>
+  <object id="16" x="16" y="45" width="458" height="17"/>
+ </objectgroup>
+</map>

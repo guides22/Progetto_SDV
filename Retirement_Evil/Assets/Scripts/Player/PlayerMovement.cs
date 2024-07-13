@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] private float _moveSpeed = 5f;
+    [SerializeField] public float normalSpeed = 5f;
     [SerializeField] private float _slowSpeed = 2f;
+    public float currentSpeed;
+    public float boostedSpeed = -1f;
 
     private Vector2 _movement;
 
@@ -25,7 +27,10 @@ public class PlayerMovement : MonoBehaviour
     private void Update() {
         _movement.Set(InputManager.Movement.x, InputManager.Movement.y);
         
-        float currentSpeed = InputManager.SlowMovement ? _slowSpeed : _moveSpeed;
+        currentSpeed = InputManager.SlowMovement ? _slowSpeed : normalSpeed;
+        if (boostedSpeed > 0) {
+            currentSpeed = boostedSpeed;
+        }
 
         _rb.velocity = _movement * currentSpeed;
 
@@ -36,5 +41,19 @@ public class PlayerMovement : MonoBehaviour
             _animator.SetFloat(_LASTHORIZONTAL, _movement.x);
             _animator.SetFloat(_LASTVERTICAL, _movement.y);
         }
+    }
+
+    public float GetCurrentSpeed() {
+        return boostedSpeed > 0 ? boostedSpeed : normalSpeed;
+    }
+
+    public void SetCurrentSpeed(float speed) {
+        boostedSpeed = speed;
+        StartCoroutine(ResetSpeedAfterDelay());
+    }
+
+    private IEnumerator ResetSpeedAfterDelay() {
+        yield return new WaitForSeconds(3);
+        boostedSpeed = -1f;
     }
 }

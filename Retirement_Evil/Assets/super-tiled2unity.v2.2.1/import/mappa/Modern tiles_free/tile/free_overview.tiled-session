@@ -1,0 +1,78 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa/Modern tiles_free/tile/untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 1/Modern tiles_free/tile/corridio ritorno.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.5,
+                "y": 720
+            }
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa/Modern tiles_free/tile/corridoio reparto ospedale spizio.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa/Modern tiles_free/tile/untitled.tmx": {
+            "scale": 0.7733,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 422.2164748480538,
+                "y": 497.86628733997156
+            }
+        },
+        "corridio ritorno.tmx": {
+            "scale": 0.5457,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -140.18691588785055,
+                "y": 617.5554333883086
+            }
+        },
+        "corridoio reparto ospedale spizio.tsx": {
+            "scaleInDock": 0.5418,
+            "scaleInEditor": 0.5628
+        },
+        "file (1).tsx": {
+            "scaleInDock": 0.3923,
+            "scaleInEditor": 0.5122
+        },
+        "untitled.tmx": {
+            "scale": 0.2164,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 404.3438077634012,
+                "y": 503.6968576709796
+            }
+        }
+    },
+    "last.imagePath": "/Users/pietroconca/Documents/mappa/Modern tiles_free/48x48",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "map.width": 10,
+    "openFiles": [
+        "untitled.tmx",
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa/Modern tiles_free/tile/untitled.tmx"
+    ],
+    "project": "free_overview.tiled-project",
+    "recentFiles": [
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa 1/Modern tiles_free/tile/corridio ritorno.tmx",
+        "untitled.tmx",
+        "/Users/pietroconca/Documents/GitHub/Progetto_SDV/Retirement_Evil/Assets/super-tiled2unity.v2.2.0/import/mappa/Modern tiles_free/tile/untitled.tmx",
+        "corridoio reparto ospedale spizio.tsx",
+        "file (1).tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
